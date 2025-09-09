@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Snazzy Paws Staff"
+AuthUserFile C:/xampp/htdocs/snazzy-paws/.htpasswd
+Require valid-user
